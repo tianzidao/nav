@@ -43,7 +43,7 @@
     "localforage": "^1.10.0",
     "lz-string": "^1.5.0",
     "mitt": "^3.0.1",
-    "ng-zorro-antd": "^20.4.4",
+    "ng-zorro-antd": "^21.2.2",
     "nprogress": "^0.2.0",
     "puppeteer": "^24.34.0",
     "qs": "^6.14.0",
